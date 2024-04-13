@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/03/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2024/04/13/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%EF%BC%9F%E2%80%94%E2%80%94%20%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B/</url>
+    <content><![CDATA[<p>title：什么是人工智能（AI）？—— 你需要知道的三件事</p>
+<hr>
+<p>人工智能 (AI) 是对人类智慧行为的仿真。它通常是设计用来感知环境、了解行为并采取行动的一台计算机或一个系统。想想自动驾驶汽车：此类 AI 驱动系统将机器学习和深度学习等 AI 算法集成到支持自动化技术的复杂环境。</p>
+<p>关于人工智能 (AI)，有哪三件你必须知道的事情呢？</p>
+<p>◆  ◆  ◆  ◆<br>为什么人工智能 (AI) 如此重要？</p>
+<p>据麦肯锡预计，到 2030 年，AI 的全球经济价值将高达 13 万亿美元。</p>
+<p>这是因为在 AI 浪潮的影响下，几乎各行各业乃至每一个应用领域的工程环节都在转型。除了自动驾驶以外，AI 还广泛应用于以下领域：机器故障预测模型，告知何时需要进行机器保养；健康和传感器分析，如病患监护系统；机器人系统，直接从经验中学习并不断改进。</p>
+<p><strong>常见 AI 应用领域：</strong></p>
+<p>◆  ◆  ◆  ◆<br>AI 工作流的重要组成部分</p>
+<p>要想取得 AI 项目的成功，不单纯是训练AI模型，在需要做出决策并采取行动的 AI 驱动系统中尤为如此。稳健可靠的 AI 工作流涵盖多个环节：准备数据；创建模型；设计运行模型的系统；部署到硬件或企业系统。</p>
+<p><strong>AI 工作流步骤如下：</strong></p>
+<p><strong>数据准备</strong></p>
+<p>提取原始数据，确保数据可用于构造准确、高效而有意义的模型，这是一个关键步骤。事实上，准备阶段会占用 AI 项目的绝大部分精力。</p>
+<p>数据准备要求具备领域专业知识，如语音和音频信号、导航和传感器融合、图像和视频处理、雷达和激光雷达经验。这些领域的工程师最适合确定哪些是数据的关键特征，哪些是不重要的特征，以及需要考虑哪些罕见事件。</p>
+<p>而且 AI 涉及大量数据。但是，标记数据和图像既乏味又费时。有时，您无法获得足够的数据，特别是关键安全系统数据。生成准确的合成数据有助于改善数据集。在这两种情况下，自动化技术对于如期完成工作至关重要。</p>
+<p><strong>AI 建模</strong></p>
+<p>成功实施 AI 系统建模的关键因素如下：</p>
+<p>首先从一套完整的机器学习、深度学习、强化学习及其他 AI 技术算法和预置模型开始。</p>
+<p>通过应用程序开展卓有成效的设计和分析</p>
+<p>在开放式生态系统中工作，可以综合运用 MATLAB®、PyTorch 和 TensorFlow™ 等 AI 工具</p>
+<p>通过 GPU 加速功能管理计算复杂度，并扩展到并行服务器、云服务器及本地数据中心</p>
+<p><strong>系统设计</strong></p>
+<p>AI 模型存在于完整的系统中。在自动驾驶系统中，AI 感知系统必须与定位和路线规划算法以及制动、加速和转弯控制集成。</p>
+<p><strong>AI 技术用于自动驾驶场景：</strong></p>
+<p>思考一下 AI 在风力发电厂预测性维护及现代飞机自动驾驶操纵系统中的应用。</p>
+<p>上述复杂 AI 驱动系统需要集成和仿真。</p>
+<p><strong>部署</strong></p>
+<p>最终产品要把AI 模型需要部署到 CPU、GPU 和&#x2F;或 FPGA 中，无论部署到嵌入式设备、边缘设备、企业系统还是云中皆不例外。嵌入式设备或边缘设备上运行的 AI 模型可以立即现场返回结果，而企业系统和云中运行的 AI 模型则可以处理来自多台设备收集的数据。通常，AI 模型将部署到两者结合的系统中。</p>
+<p>倘若使用模型生成代码并部署到设备，势必可以加快部署过程。您可以运用代码生成优化技术和硬件优化库，调整代码以满足嵌入式设备和边缘设备的低功耗特性或者企业系统和云的高性能需求。</p>
+<p>◆  ◆  ◆  ◆<br>使用 MATLAB 开发 AI 驱动的系统</p>
+<p>人工智能技能普遍欠缺是众所周知的。但是，使用 MATLAB 或 Simulink® 的工程师和科学家具备在自身专业领域内创建 AI 驱动系统所需的技能和工具。</p>
+<p>使用 MATLAB 进行数据处理</p>
+<p>可以节省预处理数据的时间。无论是时序传感器数据、图像还是文本等，MATLAB 应用程序和数据类型都能大大缩短预处理数据所需的时间。借助高级函数，您可以轻松同步不同的时序、用插值替换离群值、过滤含噪信号、将原始文本分割成单词等。借助绘图和实时编辑器，您可以快速可视化数据，理解内在趋势并发现数据质量问题。</p>
+<p>MATLAB 应用程序会自动进行图像、视频和音频数据的真实值 (ground-truth) 标注。</p>
+<p>要想从传感器或其他设备获得真实数据之前先测试算法，您可以从 Simulink 生成合成数据。此方法在自动驾驶系统中十分常见，如自适应巡航控制、车道保持辅助和自动紧急制动。</p>
+<p>在语义分割等深度学习工作流中使用标注应用程序。</p>
+<p>与深度学习框架互操作。</p>
+<p>使用 MATLAB 进行 AI 建模</p>
+<p>不同应用程序的 AI 建模方法有所不同。</p>
+<p>机器学习</p>
+<p>MATLAB 用户部署了成千上万的应用程序，用于预测性维护、传感器分析、金融和通信电子领域。Statistics and Machine Learning Toolbox™ 借助用于训练和比较模型的 App、高级信号处理和特征提取，以及用于监督式和无监督学习的分类、回归和聚类算法，让机器学习的难点部分变得简单。</p>
+<p>半导体制造商 ASML 运用机器学习技术开发了虚拟量测技术，用于提高构成芯片的复杂结构的套刻和对准精度。“作为一名工艺工程师，我没有神经网络或机器学习方面的经验。我通过 MATLAB 示例为生成虚拟量测找到了最好的机器学习函数。我用 C 或 Python 做不到这一点，查找、验证和集成合适的包会花费太多时间。”工程师 Emil Schmitt-Weaver 解释道。</p>
+<p>对于大多数统计和机器学习计算，MATLAB 模型比开源工具执行速度更快。</p>
+<p>您可以通过 Classification Learner 应用程序尝试不同的分类器，寻找最适合您数据集的分类器。</p>
+<p>深度学习</p>
+<p>工程师将 MATLAB 深度学习功能广泛应用于自动驾驶、计算机视觉、语音和自然语言处理及其他多种应用领域。您可以使用 Deep Learning Toolbox™ 创建、互连、训练及评估深度神经网络的层结构。参考示例和预训练的网络可以让使用MATLAB 进行深度学习变得轻松，即使不懂高级计算机视觉算法或神经网络知识也能如此。</p>
+<p>MATLAB 让工程师能够在不同的深度学习框架下工作。由于 MATLAB 支持 ONNX，因而支持与其他支持框架（包括 TensorFlow）相互导入和导出最新模型。</p>
+<p>您可以使用 Deep Network Designer 应用程序构建、可视化和编辑深度学习网络。</p>
+<p>强化学习</p>
+<p>在通过累积奖励学习持续受益的控制系统中，强化学习堪称理想方法。在 Reinforcement Learning Toolbox™ 中，您可以使用 DQN、A2C、DDPG 和其他强化学习算法训练策略。您可以使用这些策略为复杂系统（如机器人和自主系统）实现控制器和决策算法。您可以使用深度神经网络、多项式或查找表来实现策略。</p>
+<p>使用 Reinforcement Learning Toolbox 设计和训练策略</p>
+<p>自然语言处理</p>
+<p>自然语言处理模型常用于进行情感分析、预测性维护和主题建模。Text Analytics Toolbox™ 为文本数据的预处理、分析和建模提供算法和可视化。您可以用它来提取并处理不同来源（例如设备日志、新闻提要、调查、操作员报告和社交媒体）的原始文本。</p>
+<p>使用机器学习技术（如 LSA、LDA 和词嵌入），您可以从高维文本数据集中找到聚簇并创建特征。使用 Text Analytics Toolbox 创建的特征可以与其他数据源中的特征相结合，以构建利用文本、数字和其他类型数据的机器学习模型。 </p>
+<hr>
+]]></content>
+  </entry>
+</search>
