@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2024/03/21/hello-world/</url>
+    <url>/hexo/2024/03/21/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title></title>
-    <url>/2024/04/13/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%EF%BC%9F%E2%80%94%E2%80%94%20%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B/</url>
+    <url>/hexo/2024/04/13/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%EF%BC%9F%E2%80%94%E2%80%94%20%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<p>title：什么是人工智能（AI）？—— 你需要知道的三件事</p>
 <hr>
 <p>人工智能 (AI) 是对人类智慧行为的仿真。它通常是设计用来感知环境、了解行为并采取行动的一台计算机或一个系统。想想自动驾驶汽车：此类 AI 驱动系统将机器学习和深度学习等 AI 算法集成到支持自动化技术的复杂环境。</p>
